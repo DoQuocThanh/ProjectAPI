@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DQT_QLNH.props" />
+</Project>
